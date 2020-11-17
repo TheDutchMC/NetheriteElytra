@@ -1,1 +1,11 @@
-#Empty configuration file. you should add stuff here yourself or remove it :)
+#When wearing the elytra, should the player be fireproof?
+isElytraWearerFireProof: false
+
+#Should the elytra despawn
+preventDespawn: true
+
+#Should the elytra be fire-proof (NOTE: The item, not the player)
+isElytraItemFireProof: true
+
+#Should players be able to craft the item
+isCraftable: true

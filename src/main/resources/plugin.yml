@@ -3,4 +3,11 @@ main: @groupId@.@name@.@name@
 version: @version@
 author: @author@
 api-version: @apiVersion@
+commands:
+ elytra:
+  description: Gives a NetheriteElytra.
 
+permissions:
+ elytra.use:
+  description: Allows the use of /elytra
+  default: op
