@@ -5,3 +5,5 @@ A NetheriteElytra does not burn in lava and lasts twice as long as a regular ely
 
 ## Custom Textures:
 To use this plugin's custom textures, add this link: ``https://github.com/TheDutchMC/NetheriteElytra/raw/master/NetheriteElytra-resource-pack.zip`` to your ``server.properties`` file, at ``resource-pack``.
+
+**Note:** For the texture to show up when you are wearing the elytra, you must use OptiFine!
